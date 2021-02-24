@@ -1,0 +1,72 @@
+BODY,TD,SELECT,input,DIV,form,TEXTAREA,center,option,pre,blockquote {font-size:9pt; font-family:Verdana}
+
+ a.nav:link
+ {
+ 	font-weight:bold;
+	 font-size:10pt;
+	 font-family:Verdana;
+	 color:#005B7F;
+ }
+ 
+ a.nav:visited
+ {
+ 	font-weight:bold;
+	 font-size:10pt;
+	 font-family:Verdana;
+	 color:#005B7F;
+ }
+ 
+ a.nav:active
+ {
+ 	font-weight:bold;
+	 font-size:10pt;
+	 font-family:Verdana;
+	 color:#005B7F;
+ }
+
+ a.nav:hover
+ {
+	 font-size:10pt;
+	 font-family:Verdana;
+	 color:#CCCCCC;
+ }
+
+.head {border:solid 1 black;font-size:9pt;color:black;background-color:white;height:19px}
+.textarea {border:solid 1;font-size:9pt;color:black;background-color:white;}
+.title {font-size:13pt;color:black;font-family:Arial;}
+.title_impact {font-size:17pt;color:black;font-family:Verdana;}
+.input {border:solid 1;font-size:9pt;color:black;background-color:white;}
+.input_dis {border:solid 1;font-size:9pt;color:black;background-color:grey;}
+.submit {border:solid 0;font-size:9pt;color:white;background-color:black;height:19px}
+.submit_inc {border:solid 0;font-size:9pt;color:white;background-color:#CCCCCC;height:19px}
+
+.bcode_text_5pt{font-size:5pt;color:black;font-family:Arial;}
+.bcode_text_ar_10pt{font-size:10pt;color:black;font-family:Arial;}
+.bcode_text_ar_12pt{font-size:12pt;color:black;font-family:Arial;}
+.bcode_text_ar_14pt{font-size:14pt;color:black;font-family:Arial;}
+.bcode_text {font-size:12pt;color:black;font-family:Impact;}
+.bcode_text_14pt {font-size:14pt;color:black;font-family:Impact;}
+.bcode_text_15pt {font-size:15pt;color:black;font-family:Impact;}
+.bcode_text_16pt {font-size:16pt;color:black;font-family:Impact;}
+.bcode_text_18pt {font-size:18pt;color:black;font-family:Impact;}
+.bcode_text_20pt {font-size:20pt;color:black;font-family:Impact;}
+.bcode_text_22pt {font-size:22pt;color:black;font-family:Impact;}
+
+#dhtmltooltip{
+position: absolute;
+left: -300px;
+width: 150px;
+border: 1px solid black;
+padding: 3px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+#dhtmlpointer{
+position:absolute;
+left: -300px;
+z-index: 101;
+visibility: hidden;
+}

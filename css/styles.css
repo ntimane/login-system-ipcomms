@@ -1,0 +1,49 @@
+h1.headers {
+    color: #65557A;
+    margin: 0px auto 25px;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
+
+.forms {
+    margin: 50px auto;
+    width: 400px;
+    padding: 30px 25px;
+    border: 3px #solid #a4bf5b;
+    align-items: center;
+    align-items: center;
+    background: white;
+}
+
+.my-inputs {
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+}
+.buttons {
+    color: #fff;
+    background: #a4bf5b;
+    border: 0;
+    outline: 0;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+   
+a {
+    color: #666;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
